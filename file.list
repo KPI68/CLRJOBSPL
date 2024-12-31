@@ -1,0 +1,9 @@
+total 60
+-rwx------ 1 kpi68 0  315 Dec 31 17:50 CLRJOBSPL.CMD
+-rwx------ 1 kpi68 0 1170 Dec 31 17:50 CLRJSP.CLLE
+-rwx------ 1 kpi68 0 1253 Dec 31 17:50 CLRJSPR.RPGLE
+-rwx------ 1 kpi68 0  342 Dec 31 17:50 INSTALLP.CLLE
+-rwx------ 1 kpi68 0 2305 Dec 31 17:50 PACKP.CLLE
+-rw-rw-rw- 1 kpi68 0    0 Dec 31 20:18 file.list
+-rwxrwx--- 1 kpi68 0  847 Dec 31 19:38 readme.md
+-rw-rw-rw- 1 kpi68 0 1390 Dec 31 20:17 setup.sh
